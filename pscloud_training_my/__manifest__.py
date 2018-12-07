@@ -23,4 +23,4 @@
     'css': [],
     'auto_install': False,
     'application': True,
-}v
+}
